@@ -5,6 +5,17 @@
         "channel": "stable",
         "description": "Đồng bộ đơn, tạo mã vận đơn, in phiếu giao.",
         "displayName": "Xử lý đơn & vận chuyển",
+        "file": "order-ops-0.9.7.smod",
+        "minAppVersion": "0.1.0",
+        "sdk": "^1.0",
+        "sha256": "7c2d6c0ec29ad5e6e7e7f6deac23e94d4b9c3114ee53f0c31e89cf183b5bcbbc",
+        "tag": "order-ops-v0.9.7",
+        "version": "0.9.7"
+      },
+      {
+        "channel": "stable",
+        "description": "Đồng bộ đơn, tạo mã vận đơn, in phiếu giao.",
+        "displayName": "Xử lý đơn & vận chuyển",
         "file": "order-ops-0.9.6.smod",
         "minAppVersion": "0.1.0",
         "sdk": "^1.0",
