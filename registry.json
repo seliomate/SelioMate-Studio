@@ -1,0 +1,16 @@
+{
+  "modules": {
+    "order-ops": [
+      {
+        "channel": "stable",
+        "file": "order-ops-0.9.6.smod",
+        "minAppVersion": "0.1.0",
+        "sdk": "^1.0",
+        "sha256": "54515ec50f7b5141289bb696de626f5e43d2fbbfbf40baed652cc6b53eaf3e3a",
+        "tag": "order-ops-v0.9.6",
+        "version": "0.9.6"
+      }
+    ]
+  },
+  "schemaVersion": 1
+}
