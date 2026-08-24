@@ -3,10 +3,12 @@
     "order-ops": [
       {
         "channel": "stable",
+        "description": "Đồng bộ đơn, tạo mã vận đơn, in phiếu giao.",
+        "displayName": "Xử lý đơn & vận chuyển",
         "file": "order-ops-0.9.6.smod",
         "minAppVersion": "0.1.0",
         "sdk": "^1.0",
-        "sha256": "54515ec50f7b5141289bb696de626f5e43d2fbbfbf40baed652cc6b53eaf3e3a",
+        "sha256": "162019da87a74a62dd382918322d29af3b69e0beedcc75e69f138cfbdfb7cb67",
         "tag": "order-ops-v0.9.6",
         "version": "0.9.6"
       }
